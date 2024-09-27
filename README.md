@@ -14,7 +14,7 @@ SimpleAudioExtractor is a user-friendly application that allows you to extract a
 ## Requirements
 
 - Windows 10 or later
-- FFmpeg (automatically included in the release version)
+- FFmpeg (automatically included in the .exe release version, which is why the .exe file is so big)
 
 ## Installation
 
@@ -64,3 +64,5 @@ micbed86 - [GitHub Profile](https://github.com/micbed86)
 ## Version
 
 Current version: 0.1
+
+
