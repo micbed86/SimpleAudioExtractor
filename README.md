@@ -39,10 +39,12 @@ SimpleAudioExtractor is a user-friendly application that allows you to extract a
 ## Usage
 
 1. Launch the application
+   - optionally select preferred language
 2. Click "Select File" to choose a video file
-3. (Optional) Select an output folder
-4. Adjust the compression level if needed
+3. Select an output folder (if empty, the source file folder will be used for output)
+4. Adjust the compression level if needed by adjusting the audio bitrate/quality (by default, the original bitrate will be used - no compression).
 5. Click "Start" to begin the extraction process
+6. Access your extracted audio file by clicking on the 'Open folder' or 'Open file' button, which appears below the progress bar, once the process is completed
 
 ## Contributing
 
@@ -63,6 +65,6 @@ micbed86 - [GitHub Profile](https://github.com/micbed86)
 
 ## Version
 
-Current version: 0.1
+Current version: see [Releases](https://github.com/micbed86/SimpleAudioExtractor/releases)
 
 
