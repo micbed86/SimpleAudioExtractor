@@ -16,6 +16,10 @@ SimpleAudioExtractor is a user-friendly application that allows you to extract a
 - Windows 10 or later
 - FFmpeg (automatically included in the .exe release version, which is why the .exe file is so big)
 
+## Screenshots
+
+![SimpleAudioExtractor Interface](screenshot1.png)
+
 ## Installation
 
 ### Option 1: Using the pre-compiled executable (Windows only)
